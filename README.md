@@ -11,7 +11,7 @@
 黑盒BlackBox，是一款虚拟引擎，可以在Android上克隆、运行虚拟应用，拥有免安装运行能力。黑盒可以掌控被运行的虚拟应用，做任何想做的事情。
 
 New discussion group 开了一个新的讨论群
-[电报](https://t.me/black_boxingg)
+[电报](https://t.me/black_boxing)
 与作者无关，单纯的讨论群
 
 ## 支持
