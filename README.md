@@ -6,7 +6,7 @@
 >
 > <p align="right">——David Emery</p>
 
-## [看中国法院是怎么对待GPL的](https://mp.weixin.qq.com/s/0Az43fwaH_DWaK5jAhGQ1Q)
+## [看中国法院是怎么对待GPL](https://mp.weixin.qq.com/s/0Az43fwaH_DWaK5jAhGQ1Q)
 
 ![](https://img.shields.io/badge/language-java-brightgreen.svg)
 
