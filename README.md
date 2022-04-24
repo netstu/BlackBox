@@ -141,9 +141,9 @@ New Discussion Group  新的讨论群
 > ```
 
 
-##原作者被骚扰威胁逼删库，罗盒先违反GPL，反告作者侵权
+## 原作者被骚扰威胁逼删库，罗盒先违反GPL，反告作者侵权
 
-##[看中国法院是怎么对待GPL的](https://mp.weixin.qq.com/s/0Az43fwaH_DWaK5jAhGQ1Q)
+## [看中国法院是怎么对待GPL的](https://mp.weixin.qq.com/s/0Az43fwaH_DWaK5jAhGQ1Q)
 
 # 开源本是一件开心的事，可惜...
 ## 声明，本人仅有此BlackBox仓库，现已删除，其余仓库非本人所属。
