@@ -150,5 +150,7 @@ New Discussion Group  新的讨论群
 
 
 ## 由于目录、设计结构、命名与VA相似，被认为侵犯知识产权，即使是自己写的也没有办法，作为个人开发者无力与之抗衡，现已删除代码，解散交流群。择日重写。以下是事情经过，没有任何断章取义，本项目的关注者有权利知道事情经过。
-![xx](1.png)
-![xx](2.png)
+![1](https://user-images.githubusercontent.com/91420484/164955733-b68ed692-3906-4786-a193-4962c33b0610.png)
+![2](https://user-images.githubusercontent.com/91420484/164955736-3e95c526-a120-465c-99f4-d49a2dd786fa.png)
+
+
