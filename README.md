@@ -6,6 +6,8 @@
 >
 > <p align="right">——David Emery</p>
 
+## [看中国法院是怎么对待GPL的](https://mp.weixin.qq.com/s/0Az43fwaH_DWaK5jAhGQ1Q)
+
 ![](https://img.shields.io/badge/language-java-brightgreen.svg)
 
 黑盒BlackBox，是一款虚拟引擎，可以在Android上克隆、运行虚拟应用，拥有免安装运行能力。黑盒可以掌控被运行的虚拟应用，做任何想做的事情。
@@ -142,8 +144,6 @@ New Discussion Group  新的讨论群
 
 
 ## 原作者被骚扰威胁逼删库，罗盒先违反GPL，反告作者侵权
-
-## [看中国法院是怎么对待GPL的](https://mp.weixin.qq.com/s/0Az43fwaH_DWaK5jAhGQ1Q)
 
 # 开源本是一件开心的事，可惜...
 ## 声明，本人仅有此[BlackBox仓库](https://github.com/nnjun/BlackBox)，现已删除，其余仓库非本人所属。
